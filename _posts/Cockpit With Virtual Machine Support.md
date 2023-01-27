@@ -1,7 +1,7 @@
 ---
 title: Installing Cockpit With Virtual Machine Support
-categories: [Home Lab]
-tags: [Servers,Linux,KVM]
+categories: [home lab]
+tags: [server,linux]
 ---
 
 ## Installation
