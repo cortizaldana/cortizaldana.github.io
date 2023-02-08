@@ -4,7 +4,13 @@ categories: [home lab]
 tags: [server,linux]
 ---
 
-## Installing Cockpit
+![Alt Text](/assets/img/Working-With-Cockpit%20.png)
+
+# What Is Cockpit
+
+
+
+# Installing Cockpit
 
 To install cockpit issue,
 
@@ -28,3 +34,4 @@ sudo ufw allow 9090/tcp
 ```
 
 ## Accessing Cockpit
+
