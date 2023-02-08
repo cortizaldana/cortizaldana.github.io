@@ -1,5 +1,5 @@
 ---
-title: Working With Cokpit
+title: Working With Cockpit
 categories: [tutorials]
 tags: [monitoring,linux,opensource]
 ---
