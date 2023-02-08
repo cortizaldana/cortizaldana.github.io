@@ -30,7 +30,7 @@ sudo yum install cockpit cockpit-machine
 sudo dnf install cockpit cockpit-machines
 ```
 
-# Starting & enabling Cockpit
+# Starting & Enabling Cockpit
 
 Once the packages are installed, we need to enable and start the Cockpit service. To do that, issue the following commands:
 
@@ -40,7 +40,7 @@ sudo systemctl enable cockpit
 sudo systemctl start cockpit
 ```
 
-# Firewall setup
+# Firewall Setup
 
 We need to allow communication to tcp/9090. To do so, issue the following command:
 
