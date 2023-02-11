@@ -20,13 +20,13 @@ sudo nmcli con add type ethernet con-name Wired1 ifname enp5s0 ipv4.method manua
 
 # Creating DDNS With NoIP
 
-Before you install Wireguard, you need to create a hostname with NoIP.Creating a Dynamic DNS will ensure that even if your public IP changes, DDNS will automatically update it.Here is how you create a DDNS with NoIP:
+Before you install Wireguard, you need to create a hostname with NoIP.     Creating a Dynamic DNS will ensure that even if your public IP changes, DDNS will automatically update it.Here is how you create a DDNS with NoIP:
 
-1) Create an account
-2) Click on Dynamic DNS on the left hand side
-3) Click on NO-IP Hostnames
-4) Create hostname
-5) Add hostname and choose a domain
+- Create an account
+- Click on Dynamic DNS on the left hand side
+- Click on NO-IP Hostnames
+- Create hostname
+- Add hostname and choose a domain
 
 # Installing Wireguard With PIVPN
 
@@ -76,4 +76,4 @@ sudo wg-quick up client
 ```
 # Conclusion
 
-Wireguard is a fast and reliable VPN tunnel that allows you to connect to a private network. PIVPN is a quick way to install Wireguard and it is very simple to use. You can generate a QR code and scan it with the Wireguard app. If you run into issues, you can debug it by using the --debug option with the pivpn command.
+Wireguard is a fast and reliable VPN tunnel that allows you to connect to a private network. PIVPN is a quick way to install Wireguard and it is very simple to use. You can generate a QR code and scan it with the Wireguard app. If you run into issues, you can debug it by using the --debug option with the pivpn command. 
