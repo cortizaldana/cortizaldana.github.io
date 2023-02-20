@@ -1,7 +1,7 @@
 ---
-title: Working With Wireguard
+title: Checking Drive Health With Smartmontools
 categories: [tutorials]
-tags: [vpn,linux,opensource]
+tags: [linux,opensource]
 ---
 
 ![Alt Text](/assets/img/Checking-Drive-Health-With-Smartmontools.png)
