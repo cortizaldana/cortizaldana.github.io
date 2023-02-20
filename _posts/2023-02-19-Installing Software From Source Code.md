@@ -4,7 +4,7 @@ categories: [tutorials]
 tags: [sourcecode,linux,opensource,software]
 ---
 
-![Alt Text](/assets/img/Installing%20Software%20From%20Source%20Code.jpg)
+ ![Alt Text](https://cortizaldana.github.io/assets/img/Installing%20Software%20From%20Source%20Code.jpg)
 
 # Software Source Code
 
