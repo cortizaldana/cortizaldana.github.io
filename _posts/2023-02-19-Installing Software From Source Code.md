@@ -12,7 +12,7 @@ In the modern world, we normally install software from our local repositories. T
 
 # Requirements For Installing Software Source Code
 
-Before installing source code, you need to verify if you have compiler tools. Almost all Linux distros have them installed but it won't hurt to double check. Issue the following command:
+Before installing source code, you need to verify if you have compiler tools. Almost all Linux distros have them installed but it won't hurt to double check. Issue the following command,
 
 ```bash
 sudo apt install build-essentials gcc
