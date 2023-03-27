@@ -6,5 +6,4 @@ image: /assets/img/Checking-Drive-Health-With-Smartmontools.png
 
 ---
 
-![Alt Text](/assets/img/Checking-Drive-Health-With-Smartmontools.png)
-
+#
